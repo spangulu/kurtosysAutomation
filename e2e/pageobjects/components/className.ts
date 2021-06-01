@@ -1,0 +1,9 @@
+export const footerClass = 'app-footer';
+export const paginatorDropdownArrow = 'ui-dropdown-label';
+export const paginatorNext = 'ui-paginator-next';
+export const paginatorLast = 'ui-paginator-last';
+export const paginatorPrevious = 'ui-paginator-prev';
+export const paginatorFirst = 'ui-paginator-first';
+export const toolTipText = 'ui-tooltip-text';
+export const stateActive = 'ui-state-active';
+export const activeMenu = 'is-active';

@@ -1,0 +1,27 @@
+{
+  "name": "tag-test-ui-automation",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "lint": "ng lint",
+    "e2e-sit": "protractor protractor.conf.sit.js"
+  },
+  "private": true,
+  "devDependencies": {
+    "@types/chai": "^4.2.14",
+    "@types/cucumber": "^6.0.1",
+    "@types/node": "^14.14.9",
+    "allure-cucumberjs": "^2.0.0-beta.8",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "cucumber": "^6.0.5",
+    "cucumber-html-reporter": "^5.2.0",
+    "cucumberjs-allure-reporter": "^1.0.3",
+    "prettier": "1.18.2",
+    "protractor": "^7.0.0",
+    "protractor-cucumber-framework": "^6.2.1",
+    "ts-node": "~7.0.0",
+    "tslint": "~5.11.0",
+    "typescript": "~3.5.3"
+  }
+}
